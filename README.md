@@ -15,4 +15,4 @@ This project aims to reduce the time in planning a vacation/trip by providing re
 - Attractions- Scraping TripAdvisor to collect the dataset.
 
 # Applications
-People planning their trip without wasting time to visit hundreds of websites can use this intelligence system.
+- This intelligence system is intended for the people who want to plan their trip without wasting time visiting hundreds of websites. 
