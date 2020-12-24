@@ -18,4 +18,5 @@ This project aims to reduce the time in planning a vacation/trip by providing re
 - This intelligence system is intended for the people who want to plan their trip without wasting time visiting hundreds of websites. 
 
 # References
-- https://towardsdatascience.com/how-machine-learning-and-ai-can-improve-travel-services-3fc8a88664c4
+- [1] https://towardsdatascience.com/how-machine-learning-and-ai-can-improve-travel-services-3fc8a88664c4
+- [2] Yelp, Yelp Dataset https://www.yelp.com/dataset/download
