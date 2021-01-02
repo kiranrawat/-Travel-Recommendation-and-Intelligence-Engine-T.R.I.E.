@@ -2,3 +2,5 @@ pyspark
 jupyter notebook
 pandas
 matplotlib
+sklearn
+
